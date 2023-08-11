@@ -1,0 +1,12 @@
+header {
+    box-sizing: content-box;
+    background-color: white;
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.name {
+    color:  #f85555;
+    padding: auto
+}
